@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
   "manifestVersion": "1.5",
   "version": "1.0.0",
-  "id": "60c018e5-ac11-4e5d-9137-cb1fe6bbef9e",
+  "id": "1f0c7392-0672-4b19-baf8-d5e9b4657a85",
   "packageName": "com.microsoft.teams.bookaroom",
   "developer": {
-    "name": "<company name>",
+    "name": "Polycab India Limited",
     "websiteUrl": "<website url>",
     "privacyUrl": "<privacy url>",
     "termsOfUseUrl": "<terms of use url>"
@@ -58,7 +58,7 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<app domain>",
+    "polycab.com",
     "token.botframework.com"
   ]
 }
